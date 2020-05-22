@@ -1,5 +1,5 @@
 ![Unsa logo](https://www.purdue.edu/discoverypark/arequipa-nexus/images/unsa.png)
-# Laboratorio No. 2
+# Laboratorio No. 3
 ## Programacion de Sistemas
 
 **Ejercicios de programacion en C++ con funciones**
